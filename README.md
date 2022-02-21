@@ -2,6 +2,6 @@
 coverY: 0
 ---
 
-# Secure Coding Practices Guide
+# Secure Coding Practices Practical Guide
 
-Secure Coding Practices Guide
+Secure Coding Practices Practical Guide
