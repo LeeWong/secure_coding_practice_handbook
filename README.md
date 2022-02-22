@@ -4,6 +4,10 @@ coverY: 0
 
 # Secure Coding Practice Handbook
 
-## About
+## About this book
 
-The purpose of this document is to describe the technical controls specific to mitigating the occurrence of common software vulnerabilities via a set of general software security coding practices.
+The purpose of this book is to describe the technical controls specific to mitigating the occurrence of common software vulnerabilities via a set of general software security coding practices.
+
+## About Me
+
+{% embed url="https://www.linkedin.com/in/iamleewong" %}
