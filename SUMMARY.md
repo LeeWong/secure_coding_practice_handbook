@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Secure Coding Practice Handbook](README.md)
-  * [Content](secure-coding-practice-handbook/content.md)
   * [Introduction](secure-coding-practice-handbook/introduction.md)
   * [Software Security Risk Principles](secure-coding-practice-handbook/software-security-risk-principles.md)
   * [Secure Coding Practice Checklist](secure-coding-practice-handbook/secure-coding-practice-checklist/README.md)
