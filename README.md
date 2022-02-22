@@ -13,3 +13,7 @@ The purpose of this document is to describe the technical controls specific to m
 ### Scope
 
 This document defines a set of general software security coding practices, in a risk-based checklist format, that can be integrated into the software development lifecycle. Implementation of these practices will mitigate most common software vulnerabilities.
+
+{% content-ref url="secure-coding-practice-handbook/software-security-risk-principles.md" %}
+[software-security-risk-principles.md](secure-coding-practice-handbook/software-security-risk-principles.md)
+{% endcontent-ref %}
