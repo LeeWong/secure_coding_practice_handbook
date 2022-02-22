@@ -9,4 +9,5 @@
       * [Output Validation](secure-coding-practice-handbook/secure-coding-practice-checklist/application/output-validation.md)
     * [Container](secure-coding-practice-handbook/secure-coding-practice-checklist/container.md)
     * [Infrastructure As Code](secure-coding-practice-handbook/secure-coding-practice-checklist/infrastructure-as-code.md)
+  * [Common Attacks](secure-coding-practice-handbook/common-attacks.md)
   * [References](secure-coding-practice-handbook/references.md)
