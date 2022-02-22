@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Secure Coding Practice Practical Guide](README.md)
+* [Secure Coding Practice Handbook](README.md)
