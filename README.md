@@ -10,4 +10,4 @@ This handbook is to describe the technical controls specific to mitigating the o
 
 ## About Me
 
-{% embed url="https://www.linkedin.com/in/iamleewong" %}
+{% embed url="http://www.linkedin.com/in/iamleewong" %}
