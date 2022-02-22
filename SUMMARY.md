@@ -6,3 +6,5 @@
     * [Page 2](scp\_handbook/page-1/page-2.md)
 
 ## software\_security\_risk\_principles
+
+* [Page 3](software\_security\_risk\_principles/page-3.md)
