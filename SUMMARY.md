@@ -14,4 +14,6 @@
     * [SSRF Attack](secure-coding-practice-handbook/common-attacks/ssrf-attack.md)
     * [Database Injection Attack](secure-coding-practice-handbook/common-attacks/database-injection-attack.md)
     * [Deserialization Attack](secure-coding-practice-handbook/common-attacks/deserialization-attack.md)
+    * [JSON Injection Attack](secure-coding-practice-handbook/common-attacks/json-injection-attack.md)
+    * [JSON eval Attack](secure-coding-practice-handbook/common-attacks/json-eval-attack.md)
   * [References](secure-coding-practice-handbook/references.md)
